@@ -1,7 +1,7 @@
 {
   "name": "logicboxes",
   "description": "Logicboxes HTTP API implementation",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "author": "Pedro Dias <petermdias@gmail.com>",
   "maintainers": [
     "apocas <petermdias@gmail.com>"
